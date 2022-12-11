@@ -1,0 +1,9 @@
+13:05:23 **** Rebuild of configuration Debug for project Sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sample.o" "..\\src\\Sample.c" 
+..\src\Sample.c: In function 'main':
+..\src\Sample.c:16:24: warning: unused variable 'n'
+gcc -o Sample.exe "src\\Sample.o" 
+
+13:05:23 Build Finished. 0 errors, 1 warnings. (took 353ms)
+

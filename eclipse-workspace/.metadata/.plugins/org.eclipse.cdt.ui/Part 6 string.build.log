@@ -1,0 +1,7 @@
+10:29:46 **** Incremental Build of configuration Debug for project Part 6 string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 6 string.o" "..\\src\\Part 6 string.c" 
+gcc -o "Part 6 string.exe" "src\\Part 6 string.o" 
+
+10:29:46 Build Finished. 0 errors, 0 warnings. (took 614ms)
+

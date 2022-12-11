@@ -1,0 +1,190 @@
+13:37:48 **** Rebuild of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+13:39:36 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+13:40:30 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:41:46 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:42:09 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:44:15 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:44:31 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:45:31 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:45:47 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:46:28 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:47:05 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+13:47:47 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:48:06 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:48:15 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+13:49:03 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+13:50:23 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:51:55 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:52:10 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:54:09 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:54:33 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+Info: Nothing to build for SampleStar
+Info: Nothing to build for SampleStar
+13:57:26 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+13:57:43 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:00:53 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:00:58 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+Info: Nothing to build for SampleStar
+Info: Nothing to build for SampleStar
+14:10:22 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:10:49 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+..\src\SampleStar.c: In function 'main':
+..\src\SampleStar.c:21:16: error: expected expression before '=' token
+14:12:03 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:13:55 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:14:02 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:14:11 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:16:57 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:19:11 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:21:20 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:22:42 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:23:37 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:25:37 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:25:53 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:34:26 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+14:35:42 **** Incremental Build of configuration Debug for project SampleStar ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\SampleStar.o" "..\\src\\SampleStar.c" 
+gcc -o SampleStar.exe "src\\SampleStar.o" 
+15:49:54 **** Rebuild of configuration Debug for project Assignment_13 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment_13.o" "..\\src\\Assignment_13.c" 
+gcc -o Assignment_13.exe "src\\Assignment_13.o" 
+17:41:40 **** Rebuild of configuration Debug for project Assignment_15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment_15.o" "..\\src\\Assignment_15.c" 
+..\src\Assignment_15.c: In function 'main':
+..\src\Assignment_15.c:14:2: warning: control reaches end of non-void function
+gcc -o Assignment_15.exe "src\\Assignment_15.o" 
+18:44:29 **** Rebuild of configuration Debug for project Assignment_19 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment_19.o" "..\\src\\Assignment_19.c" 
+gcc -o Assignment_19.exe "src\\Assignment_19.o" 
+Info: Nothing to build for Assignment_19
+18:54:29 **** Rebuild of configuration Debug for project Assignment_21 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment_21.o" "..\\src\\Assignment_21.c" 
+..\src\Assignment_21.c: In function 'main':
+..\src\Assignment_21.c:17:19: warning: unused variable 'k'
+..\src\Assignment_21.c:17:16: warning: unused variable 'j'
+gcc -o Assignment_21.exe "src\\Assignment_21.o" 
+Info: Nothing to build for Assignment_21

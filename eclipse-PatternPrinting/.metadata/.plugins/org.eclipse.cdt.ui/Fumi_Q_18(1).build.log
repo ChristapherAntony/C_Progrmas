@@ -1,0 +1,12 @@
+13:05:21 **** Rebuild of configuration Debug for project Fumi_Q_18(1) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Fumi_Q_18(1).o" "..\\src\\Fumi_Q_18(1).c" 
+..\src\Fumi_Q_18(1).c: In function 'main':
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+gcc -o Fumi_Q_18(1).exe "src\\Fumi_Q_18(1).o" 
+
+13:05:21 Build Finished. 0 errors, 4 warnings. (took 321ms)
+

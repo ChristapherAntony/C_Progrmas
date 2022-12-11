@@ -1,0 +1,48 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      :
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+#include <stdio.h>
+
+int main(void){
+	setbuf(stdout,NULL);
+
+	double minutesEntred=0;
+	double numberOfYears=0;
+	double numberOfDayes=0;
+	double minutesInAYear=0;
+
+
+	printf("Please enter number of minutes ");
+	scanf("%d", & minutesEntred);
+	//input from user
+
+	minutesInAYear= (60 * 24)* 365;
+
+	numberOfYears=minutesEntred/minutesInAYear;
+
+	numberOfDayes=(minutesEntred/60)/24;
+
+	printf("%d minutes approximately %d years and %d days.",minutesEntred ,numberOfYears, numberOfDayes);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	return 0;
+}
+

@@ -1,0 +1,7 @@
+10:22:04 **** Rebuild of configuration Debug for project 4. a_to_z loop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4. a_to_z loop.o" "..\\src\\4. a_to_z loop.c" 
+gcc -o "4. a_to_z loop.exe" "src\\4. a_to_z loop.o" 
+
+10:22:05 Build Finished. 0 errors, 0 warnings. (took 474ms)
+

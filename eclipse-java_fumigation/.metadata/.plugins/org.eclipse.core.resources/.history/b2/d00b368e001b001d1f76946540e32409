@@ -1,0 +1,15 @@
+
+public class Sample {
+	
+	int a;
+	int b;
+	 
+	
+	Sample(int a, int b){
+		int sum= a+b;
+		
+	
+	}
+	
+
+}

@@ -1,0 +1,7 @@
+10:22:07 **** Rebuild of configuration Debug for project 5. star paters ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5. star paters.o" "..\\src\\5. star paters.c" 
+gcc -o "5. star paters.exe" "src\\5. star paters.o" 
+
+10:22:07 Build Finished. 0 errors, 0 warnings. (took 520ms)
+

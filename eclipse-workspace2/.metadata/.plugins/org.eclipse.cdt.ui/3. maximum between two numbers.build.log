@@ -1,0 +1,7 @@
+10:22:02 **** Rebuild of configuration Debug for project 3. maximum between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum between two numbers.o" "..\\src\\maximum between two numbers.c" 
+gcc -o "3. maximum between two numbers.exe" "src\\maximum between two numbers.o" 
+
+10:22:02 Build Finished. 0 errors, 0 warnings. (took 455ms)
+

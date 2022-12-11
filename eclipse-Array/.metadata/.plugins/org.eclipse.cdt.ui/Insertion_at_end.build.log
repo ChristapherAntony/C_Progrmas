@@ -1,0 +1,7 @@
+00:24:30 **** Rebuild of configuration Debug for project Insertion_at_end ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Insertion_at_end.o" "..\\src\\Insertion_at_end.c" 
+gcc -o Insertion_at_end.exe "src\\Insertion_at_end.o" 
+
+00:24:30 Build Finished. 0 errors, 0 warnings. (took 452ms)
+

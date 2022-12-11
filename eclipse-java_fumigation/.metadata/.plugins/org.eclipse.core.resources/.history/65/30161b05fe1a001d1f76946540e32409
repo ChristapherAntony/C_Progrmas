@@ -1,0 +1,9 @@
+
+public class Sample {
+	
+	Sample(){
+		System.out.println("Printing from constructor");
+	}
+	
+
+}

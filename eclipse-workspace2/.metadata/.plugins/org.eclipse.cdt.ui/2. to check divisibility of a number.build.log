@@ -1,0 +1,7 @@
+10:21:59 **** Rebuild of configuration Debug for project 2. to check divisibility of a number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. to check divisibility of a number.o" "..\\src\\2. to check divisibility of a number.c" 
+gcc -o "2. to check divisibility of a number.exe" "src\\2. to check divisibility of a number.o" 
+
+10:21:59 Build Finished. 0 errors, 0 warnings. (took 432ms)
+

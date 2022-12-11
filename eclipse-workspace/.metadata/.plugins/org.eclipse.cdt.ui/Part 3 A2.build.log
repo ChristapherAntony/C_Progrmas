@@ -1,0 +1,7 @@
+15:59:09 **** Rebuild of configuration Debug for project Part 3 A2 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 3 A2.o" "..\\src\\Part 3 A2.c" 
+gcc -o "Part 3 A2.exe" "src\\Part 3 A2.o" 
+
+15:59:09 Build Finished. 0 errors, 0 warnings. (took 363ms)
+

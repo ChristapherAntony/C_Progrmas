@@ -1,0 +1,7 @@
+10:21:58 **** Rebuild of configuration Debug for project 2. programe to check leap year ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. programe to check leap year.o" "..\\src\\2. programe to check leap year.c" 
+gcc -o "2. programe to check leap year.exe" "src\\2. programe to check leap year.o" 
+
+10:21:58 Build Finished. 0 errors, 0 warnings. (took 454ms)
+

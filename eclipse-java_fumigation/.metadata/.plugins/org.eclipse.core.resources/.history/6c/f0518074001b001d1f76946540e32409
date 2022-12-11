@@ -1,0 +1,14 @@
+
+public class Sample {
+	
+	int a;
+	int b;
+	 
+	
+	Sample(int a){
+		
+	
+	}
+	
+
+}

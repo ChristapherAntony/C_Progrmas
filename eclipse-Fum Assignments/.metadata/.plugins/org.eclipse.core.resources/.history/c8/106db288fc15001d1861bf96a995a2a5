@@ -1,0 +1,27 @@
+/*
+ ============================================================================
+ Name        : Pattern_FType.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int i, j;
+
+	for(i=1; i<=12; i++){
+		for(j=1; j<=6; j++){
+			if(j==1|| i==5&&j<=3|| i==5&&j<=6 ||i==6&&j<=6 || i==12&&j<=6){
+				printf("*  ");
+			}
+		}printf("\n\n");
+	}
+
+	return EXIT_SUCCESS;
+}

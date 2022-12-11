@@ -1,0 +1,7 @@
+00:24:31 **** Rebuild of configuration Debug for project Second_first_large_small ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Second_first_large_small.o" "..\\src\\Second_first_large_small.c" 
+gcc -o Second_first_large_small.exe "src\\Second_first_large_small.o" 
+
+00:24:32 Build Finished. 0 errors, 0 warnings. (took 459ms)
+

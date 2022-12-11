@@ -1,0 +1,9 @@
+17:41:40 **** Rebuild of configuration Debug for project Assignment_15 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Assignment_15.o" "..\\src\\Assignment_15.c" 
+..\src\Assignment_15.c: In function 'main':
+..\src\Assignment_15.c:14:2: warning: control reaches end of non-void function
+gcc -o Assignment_15.exe "src\\Assignment_15.o" 
+
+17:41:40 Build Finished. 0 errors, 1 warnings. (took 550ms)
+

@@ -1,0 +1,55 @@
+/*
+ ============================================================================
+ Name        : Sample.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+
+	int n=5, i, j, length=(n*2)-1, start=0, end=length-1;
+	int k=n;
+	int a[length][length];
+
+	while(n!=0){
+		for(i=start; i<=end; i++){
+			for(j=start; j<=end; j++){
+
+				if(j==start|| j==end || i==start || i==end ){
+					a[i][j]=k;
+				}
+
+			}
+
+
+
+			printf("\n");
+			--k;
+			start++;
+			end--;
+		}
+
+
+
+	}
+
+	for(i=start; i<=end; i++){
+		for(j=start; j<=end; j++){
+			printf("%d%d",a[i][j]);
+
+
+		}
+	}
+
+
+
+
+	return EXIT_SUCCESS;
+}

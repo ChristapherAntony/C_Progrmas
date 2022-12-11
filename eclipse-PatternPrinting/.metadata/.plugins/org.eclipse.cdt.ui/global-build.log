@@ -1,0 +1,289 @@
+22:56:19 **** Rebuild of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+Info: Nothing to build for pascalTriangle
+22:57:26 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+22:58:04 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file pascalTriangle.exe: Permission denied
+collect2: ld returned 1 exit status
+22:58:15 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+Info: Nothing to build for pascalTriangle
+22:58:44 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file pascalTriangle.exe: Permission denied
+collect2: ld returned 1 exit status
+22:58:50 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+Info: Nothing to build for pascalTriangle
+22:59:10 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+22:59:50 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:01:06 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:01:52 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:00 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:10 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:20 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:25 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:35 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:02:50 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:03:00 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:03:25 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:03:44 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+23:04:02 **** Incremental Build of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+Info: Nothing to build for pascalTriangle
+12:16:18 **** Incremental Build of configuration Debug for project Pattern printting new method ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern printting new method.o" "..\\src\\Pattern printting new method.c" 
+..\src\Pattern printting new method.c: In function 'fPatterns':
+..\src\Pattern printting new method.c:661:6: warning: unused variable 'flag'
+..\src\Pattern printting new method.c: In function 'patternABC123':
+..\src\Pattern printting new method.c:719:13: warning: unused variable 'limit'
+..\src\Pattern printting new method.c:719:9: warning: unused variable 'h'
+..\src\Pattern printting new method.c:719:6: warning: unused variable 'v'
+gcc -o "Pattern printting new method.exe" "src\\Pattern printting new method.o" 
+13:01:55 **** Incremental Build of configuration Debug for project Pattern printting new method ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern printting new method.o" "..\\src\\Pattern printting new method.c" 
+..\src\Pattern printting new method.c: In function 'fPatterns':
+..\src\Pattern printting new method.c:661:6: warning: unused variable 'flag'
+..\src\Pattern printting new method.c: In function 'patternABC123':
+..\src\Pattern printting new method.c:719:13: warning: unused variable 'limit'
+..\src\Pattern printting new method.c:719:9: warning: unused variable 'h'
+..\src\Pattern printting new method.c:719:6: warning: unused variable 'v'
+gcc -o "Pattern printting new method.exe" "src\\Pattern printting new method.o" 
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for Pattern printting new method
+13:02:26 **** Incremental Build of configuration Debug for project Pattern printting new method ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern printting new method.o" "..\\src\\Pattern printting new method.c" 
+..\src\Pattern printting new method.c: In function 'fPatterns':
+..\src\Pattern printting new method.c:661:6: warning: unused variable 'flag'
+..\src\Pattern printting new method.c: In function 'patternABC123':
+..\src\Pattern printting new method.c:719:13: warning: unused variable 'limit'
+..\src\Pattern printting new method.c:719:9: warning: unused variable 'h'
+..\src\Pattern printting new method.c:719:6: warning: unused variable 'v'
+gcc -o "Pattern printting new method.exe" "src\\Pattern printting new method.o" 
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for Pattern printting new method
+13:04:42 **** Rebuild of configuration Debug for project piramid_abc_num ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\piramid_abc_num.o" "..\\src\\piramid_abc_num.c" 
+gcc -o piramid_abc_num.exe "src\\piramid_abc_num.o" 
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for Pattern printting new method
+13:05:18 **** Clean-only build of configuration Debug for project Array ****
+rm -rf src/Array.o src/Array.d Array.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:18 **** Clean-only build of configuration Debug for project Array ****
+13:05:18 **** Clean-only build of configuration Debug for project Fumi_Q_17(1) ****
+rm -rf src/Fumi_Q_17(1).o src/Fumi_Q_17(1).d Fumi_Q_17(1).exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:18 **** Clean-only build of configuration Debug for project Fumi_Q_17(1) ****
+13:05:18 **** Clean-only build of configuration Debug for project Fumi_Q_17(2) ****
+rm -rf src/Fumi_Q_17(2).d Fumi_Q_17(2).exe src/Fumi_Q_17(2).o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Fumi_Q_17(2) ****
+13:05:19 **** Clean-only build of configuration Debug for project Fumi_Q_18(1) ****
+rm -rf src/Fumi_Q_18(1).d src/Fumi_Q_18(1).o Fumi_Q_18(1).exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Fumi_Q_18(1) ****
+13:05:19 **** Clean-only build of configuration Debug for project Kunal ****
+rm -rf src/Kunal.o Kunal.exe src/Kunal.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Kunal ****
+13:05:19 **** Clean-only build of configuration Debug for project NumberPattern ****
+rm -rf src/NumberPattern.o src/NumberPattern.d NumberPattern.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project NumberPattern ****
+13:05:19 **** Clean-only build of configuration Debug for project Pattern printting new method ****
+rm -rf "src/Pattern printting new method.o" "Pattern printting new method.exe" "src/Pattern printting new method.d" 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Pattern printting new method ****
+13:05:19 **** Clean-only build of configuration Debug for project Pattern_alphabets ****
+rm -rf src/Pattern_alphabets.d Pattern_alphabets.exe src/Pattern_alphabets.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Pattern_alphabets ****
+13:05:19 **** Clean-only build of configuration Debug for project Sample ****
+rm -rf src/Sample.o Sample.exe src/Sample.d 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:19 **** Clean-only build of configuration Debug for project Sample ****
+13:05:19 **** Clean-only build of configuration Debug for project pascalTriangle ****
+rm -rf src/pascalTriangle.o src/pascalTriangle.d pascalTriangle.exe 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:20 **** Clean-only build of configuration Debug for project pascalTriangle ****
+13:05:20 **** Clean-only build of configuration Debug for project piramid_abc_num ****
+rm -rf src/piramid_abc_num.d piramid_abc_num.exe src/piramid_abc_num.o 
+Cannot run program "rm": Launching failed
+
+Error: Program "rm" not found in PATH
+PATH=[C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;\bin;\usr\bin;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin/server;C:/Program Files/eclipse//plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.2.v20220201-1208/jre/bin;C:\Program Files\nodejs;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Christapher\AppData\Local\Microsoft\WindowsApps;C:\Program Files\mingw-w64-bin_x86_64-mingw_20111101_sezero\mingw64\bin;C:\Users\Christapher\AppData\Local\atom\bin;C:\Users\Christapher\AppData\Local\GitHubDesktop\bin;C:\Users\Christapher\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Christapher\AppData\Roaming\npm;C:\Program Files\eclipse]
+
+13:05:20 **** Clean-only build of configuration Debug for project piramid_abc_num ****
+13:05:20 **** Rebuild of configuration Debug for project Array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Array.o" "..\\src\\Array.c" 
+gcc -o Array.exe "src\\Array.o" 
+13:05:20 **** Rebuild of configuration Debug for project Fumi_Q_17(1) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Fumi_Q_17(1).o" "..\\src\\Fumi_Q_17(1).c" 
+..\src\Fumi_Q_17(1).c: In function 'main':
+..\src\Fumi_Q_17(1).c:20:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_17(1).c:20:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Fumi_Q_17(1).c:20:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_17(1).c:20:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Fumi_Q_17(1).c:20:4: warning: suggest parentheses around '&&' within '||'
+gcc -o Fumi_Q_17(1).exe "src\\Fumi_Q_17(1).o" 
+13:05:21 **** Rebuild of configuration Debug for project Fumi_Q_17(2) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Fumi_Q_17(2).o" "..\\src\\Fumi_Q_17(2).c" 
+gcc -o Fumi_Q_17(2).exe "src\\Fumi_Q_17(2).o" 
+13:05:21 **** Rebuild of configuration Debug for project Fumi_Q_18(1) ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Fumi_Q_18(1).o" "..\\src\\Fumi_Q_18(1).c" 
+..\src\Fumi_Q_18(1).c: In function 'main':
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+..\src\Fumi_Q_18(1).c:19:4: warning: suggest parentheses around '&&' within '||'
+gcc -o Fumi_Q_18(1).exe "src\\Fumi_Q_18(1).o" 
+13:05:21 **** Rebuild of configuration Debug for project Kunal ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Kunal.o" "..\\src\\Kunal.c" 
+..\src\Kunal.c: In function 'reverseHillPattern':
+..\src\Kunal.c:142:6: warning: unused variable 's'
+gcc -o Kunal.exe "src\\Kunal.o" 
+13:05:22 **** Rebuild of configuration Debug for project NumberPattern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\NumberPattern.o" "..\\src\\NumberPattern.c" 
+..\src\NumberPattern.c:14:13: warning: data definition has no type or storage class
+..\src\NumberPattern.c:14:13: warning: type defaults to 'int' in declaration of 'star1'
+..\src\NumberPattern.c:14:19: warning: type defaults to 'int' in declaration of 'star2'
+..\src\NumberPattern.c:14:25: warning: type defaults to 'int' in declaration of 'space'
+gcc -o NumberPattern.exe "src\\NumberPattern.o" 
+13:05:22 **** Rebuild of configuration Debug for project Pattern printting new method ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern printting new method.o" "..\\src\\Pattern printting new method.c" 
+..\src\Pattern printting new method.c: In function 'fPatterns':
+..\src\Pattern printting new method.c:661:6: warning: unused variable 'flag'
+..\src\Pattern printting new method.c: In function 'patternABC123':
+..\src\Pattern printting new method.c:719:13: warning: unused variable 'limit'
+..\src\Pattern printting new method.c:719:9: warning: unused variable 'h'
+..\src\Pattern printting new method.c:719:6: warning: unused variable 'v'
+gcc -o "Pattern printting new method.exe" "src\\Pattern printting new method.o" 
+13:05:22 **** Rebuild of configuration Debug for project Pattern_alphabets ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern_alphabets.o" "..\\src\\Pattern_alphabets.c" 
+gcc -o Pattern_alphabets.exe "src\\Pattern_alphabets.o" 
+13:05:23 **** Rebuild of configuration Debug for project Sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sample.o" "..\\src\\Sample.c" 
+..\src\Sample.c: In function 'main':
+..\src\Sample.c:16:24: warning: unused variable 'n'
+gcc -o Sample.exe "src\\Sample.o" 
+13:05:23 **** Rebuild of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+13:05:24 **** Rebuild of configuration Debug for project piramid_abc_num ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\piramid_abc_num.o" "..\\src\\piramid_abc_num.c" 
+gcc -o piramid_abc_num.exe "src\\piramid_abc_num.o" 
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for Pattern printting new method
+Info: Nothing to build for NumberPattern
+Info: Nothing to build for piramid_abc_num
+Info: Nothing to build for Pattern printting new method

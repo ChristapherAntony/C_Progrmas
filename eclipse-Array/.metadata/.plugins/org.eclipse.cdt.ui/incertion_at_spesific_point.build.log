@@ -1,0 +1,7 @@
+00:24:35 **** Rebuild of configuration Debug for project incertion_at_spesific_point ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\incertion_at_spesific_point.o" "..\\src\\incertion_at_spesific_point.c" 
+gcc -o incertion_at_spesific_point.exe "src\\incertion_at_spesific_point.o" 
+
+00:24:36 Build Finished. 0 errors, 0 warnings. (took 555ms)
+

@@ -1,0 +1,13 @@
+18:20:44 **** Rebuild of configuration Debug for project Pattern_FType ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern_FType.o" "..\\src\\Pattern_FType.c" 
+..\src\Pattern_FType.c: In function 'main':
+..\src\Pattern_FType.c:20:4: warning: suggest parentheses around '&&' within '||'
+..\src\Pattern_FType.c:20:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Pattern_FType.c:20:4: warning: suggest parentheses around '&&' within '||'
+..\src\Pattern_FType.c:20:4: warning: suggest parentheses around comparison in operand of '&'
+..\src\Pattern_FType.c:20:4: warning: suggest parentheses around '&&' within '||'
+gcc -o Pattern_FType.exe "src\\Pattern_FType.o" 
+
+18:20:45 Build Finished. 0 errors, 5 warnings. (took 543ms)
+

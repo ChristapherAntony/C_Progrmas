@@ -1,0 +1,8 @@
+19:23:22 **** Incremental Build of configuration Debug for project Part 5 asg3 no of even in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 asg3 no of even in array.o" "..\\src\\Part 5 asg3 no of even in array.c" 
+..\src\Part 5 asg3 no of even in array.c: In function 'main':
+..\src\Part 5 asg3 no of even in array.c:33:2: error: expected declaration or statement at end of input
+
+19:23:22 Build Failed. 1 errors, 0 warnings. (took 162ms)
+

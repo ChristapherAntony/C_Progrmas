@@ -1,0 +1,26 @@
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		
+		System.out.println("Enter the marks scored by the students \n");
+		
+		Scanner scan=new Scanner(System.in);
+		
+		System.out.println("Written test\n");
+		int writtenTest=scan.nextInt();
+		
+		System.out.println("Lab exams\n");
+		int labExams=scan.nextInt();
+		
+		System.out.println("Assignments\n");
+		int assignment=scan.nextInt();
+		
+		
+		
+		
+		
+		
+	}
+
+}

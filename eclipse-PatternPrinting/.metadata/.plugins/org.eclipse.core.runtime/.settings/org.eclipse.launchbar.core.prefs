@@ -1,0 +1,17 @@
+LaunchTargetManager/configs/Array.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Fumi_Q_17.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Kunal.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Pattern\ printting\ new\ method.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Sample.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/pascalTriangle.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17.exe,org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17(2).exe,org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_18(1).exe,org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17(1).exe,org.eclipse.launchbar.core.descriptorType.default\:Kunal.exe,org.eclipse.launchbar.core.descriptorType.default\:Array.exe,org.eclipse.launchbar.core.descriptorType.default\:Pattern_alphabets.exe,org.eclipse.launchbar.core.descriptorType.default\:Sample.exe,org.eclipse.launchbar.core.descriptorType.default\:pascalTriangle.exe,org.eclipse.launchbar.core.descriptorType.default\:NumberPattern.exe,org.eclipse.launchbar.core.descriptorType.default\:piramid_abc_num.exe,org.eclipse.launchbar.core.descriptorType.default\:Pattern printting new method.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Array.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Array.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17(1).exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17(1).exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Fumi_Q_17.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

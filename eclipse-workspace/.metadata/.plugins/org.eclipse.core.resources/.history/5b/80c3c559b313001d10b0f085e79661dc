@@ -1,0 +1,86 @@
+/*
+ ============================================================================
+ Name        : sample001.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+int main(void) {
+	setbuf(stdout,NULL);
+	// swapping two array values
+
+	int size,i,j,swap,count=0;
+	int values1[100],values2[100],valuesp[100];
+
+	printf("Enter size of the array");
+	scanf("%d",&size);
+
+	printf("Enter values for 1st array\n");
+	for(i=0;i<size;i++){
+		scanf("%d",&values1[i]);
+	}
+	printf("Enter values for 2nd array\n");
+	for(i=0;i<size;i++){
+		scanf("%d",&values2[i]);
+	}
+
+	for(i=0;i<size;i++){
+		swap=values1[i];
+		values1[i]=values2[i];
+		values2[i]=swap;
+	}
+
+	for(i=0;i<size;i++){
+		printf("%d  ",values1[i]);
+	}printf("\n");
+	for(i=0;i<size;i++){
+		printf("%d  ",values2[i]);
+	}printf("\n\n");
+
+	printf("Vlaues1 multiplied by values 2 are, \n");
+	for(i=0;i<size;i++){
+			valuesp[i]=values1[i]*values2[i];
+	}
+	for(i=0;i<size;i++){
+			printf("%d  ",valuesp[i]);
+	}printf("\n\n");
+
+
+	printf("Print values in descending order \n");
+	for(i=0;i<size-1;i++){
+			for(j=i+1;j<size;j++){
+				if(valuesp[i]<valuesp[j]){
+					swap=valuesp[i];
+					valuesp[i]=valuesp[j];
+					valuesp[j]=swap;
+				}
+			}
+		}
+
+	for(i=0;i<size;i++){
+		printf("%d ",valuesp[i]);
+		}
+
+
+
+
+
+
+
+	return (0);
+}
+
+
+
+
+
+
+
+

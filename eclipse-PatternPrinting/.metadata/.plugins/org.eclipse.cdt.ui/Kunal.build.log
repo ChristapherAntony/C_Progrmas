@@ -1,0 +1,9 @@
+13:05:21 **** Rebuild of configuration Debug for project Kunal ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Kunal.o" "..\\src\\Kunal.c" 
+..\src\Kunal.c: In function 'reverseHillPattern':
+..\src\Kunal.c:142:6: warning: unused variable 's'
+gcc -o Kunal.exe "src\\Kunal.o" 
+
+13:05:22 Build Finished. 0 errors, 1 warnings. (took 309ms)
+

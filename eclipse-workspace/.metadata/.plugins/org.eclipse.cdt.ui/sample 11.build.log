@@ -1,0 +1,8 @@
+22:20:13 **** Incremental Build of configuration Debug for project sample 11 ****
+Info: Internal Builder is used for build
+gcc -o "sample 11.exe" "src\\sample 11.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample 11.exe: Permission denied
+collect2: ld returned 1 exit status
+
+22:20:14 Build Failed. 1 errors, 0 warnings. (took 176ms)
+

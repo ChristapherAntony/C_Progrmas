@@ -1,0 +1,39 @@
+/*
+ ============================================================================
+ Name        : Sample.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	int i,n=5,j;
+	printf("blank diamond\n");
+	int str=n, spe=0, str2=n;
+	for(i=1; i<=n*2; i++){
+		for(j=1; j<=str; j++){
+			printf("* ");
+		}		for(j=1; j<=spe; j++){
+			printf("  ");
+		}		for(j=1; j<=str2; j++){
+			printf("* ");
+		}
+		if(i<n){
+			str--;
+			spe+=2;
+			str2--;
+		}else if(i>n){
+			str++;
+			spe-=2;
+			str2++;
+		}
+		printf("\n");
+
+	}
+	return EXIT_SUCCESS;
+}

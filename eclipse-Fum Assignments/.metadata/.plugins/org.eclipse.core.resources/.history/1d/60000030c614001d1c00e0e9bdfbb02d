@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : Assignment_14.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+
+	int size;
+	int i,j;
+	int array1[50][50],array2[50][50];
+
+	printf("Enter array limit");
+	scanf("%d",& size);
+
+	printf("Enter the values of array 1");
+	for(i=0; i<size; i++){
+		for(j=0; j<size; j++){
+			scanf("%d",&array1[i][j]);
+		}
+	}
+
+	for(i=0; i<size; i++){
+		for(j=0; j<size; j++){
+			printf("%d",array1[i][j]);
+		}
+	}
+
+
+
+	return EXIT_SUCCESS;
+}

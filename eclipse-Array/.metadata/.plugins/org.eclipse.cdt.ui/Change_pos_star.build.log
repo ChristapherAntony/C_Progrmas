@@ -1,0 +1,7 @@
+14:05:40 **** Rebuild of configuration Debug for project Change_pos_star ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Change_pos_star.o" "..\\src\\Change_pos_star.c" 
+gcc -o Change_pos_star.exe "src\\Change_pos_star.o" 
+
+14:05:46 Build Finished. 0 errors, 0 warnings. (took 6s.812ms)
+

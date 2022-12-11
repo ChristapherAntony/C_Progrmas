@@ -1,0 +1,7 @@
+10:21:57 **** Rebuild of configuration Debug for project 2. max 3 number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. max 3 number.o" "..\\src\\2. max 3 number.c" 
+gcc -o "2. max 3 number.exe" "src\\2. max 3 number.o" 
+
+10:21:58 Build Finished. 0 errors, 0 warnings. (took 498ms)
+

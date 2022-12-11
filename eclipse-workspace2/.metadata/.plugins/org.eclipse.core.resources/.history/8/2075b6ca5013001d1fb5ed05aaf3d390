@@ -1,0 +1,86 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      :
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+#include <stdio.h>
+
+int main(void){
+	setbuf(stdout,NULL);
+	float actualHoursWorked=0.0;
+	float basicPayRatePerHour=12;
+	float overtimePayRate=4;
+	float weeklyHours=40;
+	float grossPay=0;
+	float netpay=0;
+	float taxPayable=0;
+	float overTimeWorked=0;
+	float taxRate_300=15/100;
+	float taxRate_150=20/100;
+	float taxableRest=15/100;
+
+
+
+
+	printf("Program for showing gross pay, tax deductions and net pay per week \n\n");
+
+	printf("Enter number of hours worked in a week-");
+	scanf("%f", & actualHoursWorked);//received input from user.
+	printf("\n");
+
+	if (actualHoursWorked >= weeklyHours){
+		grossPay=actualHoursWorked * basicPayRatePerHour;
+	}else if(actualHoursWorked > weeklyHours){
+		overTimeWorked = actualHoursWorked - weeklyHours;
+
+		grossPay = (weeklyHours * basicPayRatePerHour) + (overTimeWorked * overtimePayRate);
+
+	}  //here all calculation for gross pay.
+
+	//tax calculation started
+	if (grossPay <= 300){
+		taxPayable = grossPay * taxRate_150;
+
+	}else if(grossPay >300 && grossPay <=450){
+		taxPayable = grossPay * taxRate_150;
+		taxPayable += (grossPay-300) * taxRate_300;
+	}else if (grossPay>450){
+		taxPayable = grossPay * taxRate_150;
+		taxPayable += (grossPay-300) * taxRate_150;
+		taxPayable += (grossPay-450) * taxableRest;
+	}
+	// here tax calculation completed
+
+	//net pay calculation
+
+	netpay = grossPay - taxPayable;
+
+
+	printf("Pay before tax =%f \n", grossPay);
+	printf("Tax payable    =%f \n", taxPayable);
+	printf("Net payable    =%f \n", netpay);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	return 0;
+}
+

@@ -1,0 +1,40 @@
+/*
+ ============================================================================
+ Name        : Reverse_new.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int i, n=6, a[100]={90,10,20,30,40,50};
+
+	for(i=0; i<n; i++){
+
+		if(i<=4){
+			a[n-i] =a[i]+a[n-i];
+			a[i]   =a[n-i]-a[i];
+			a[n-i] =a[n-i]-a[i];
+		}
+
+
+//		a[n-i] =a[i]+a[n-i];
+//		a[i]   =a[n-i]-a[i];
+//		a[n-i] =a[n-i]-a[i];
+
+	}
+
+	printf("reversed array\n");
+
+	for(i=0; i<n; i++){
+		printf( "%d  ", a[i]);
+	}
+
+	return EXIT_SUCCESS;
+}

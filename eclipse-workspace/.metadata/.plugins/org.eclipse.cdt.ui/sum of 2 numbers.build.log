@@ -1,0 +1,7 @@
+18:04:06 **** Incremental Build of configuration Debug for project sum of 2 numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sum of 2 numbers.o" "..\\src\\sum of 2 numbers.c" 
+gcc -o "sum of 2 numbers.exe" "src\\sum of 2 numbers.o" 
+
+18:04:07 Build Finished. 0 errors, 0 warnings. (took 371ms)
+

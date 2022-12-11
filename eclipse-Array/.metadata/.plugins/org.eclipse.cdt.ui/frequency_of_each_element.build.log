@@ -1,0 +1,7 @@
+08:42:36 **** Rebuild of configuration Debug for project frequency_of_each_element ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\frequency_of_each_element.o" "..\\src\\frequency_of_each_element.c" 
+gcc -o frequency_of_each_element.exe "src\\frequency_of_each_element.o" 
+
+08:42:37 Build Finished. 0 errors, 0 warnings. (took 478ms)
+

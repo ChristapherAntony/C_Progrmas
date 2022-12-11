@@ -1,0 +1,10 @@
+10:22:05 **** Rebuild of configuration Debug for project 4. print multiplication table of any number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4. print multiplication table of any number.o" "..\\src\\4. print multiplication table of any number.c" 
+..\src\4. print multiplication table of any number.c: In function 'main':
+..\src\4. print multiplication table of any number.c:31:2: warning: statement with no effect
+..\src\4. print multiplication table of any number.c:33:2: error: expected ';' before 'return'
+..\src\4. print multiplication table of any number.c:34:1: warning: control reaches end of non-void function
+
+10:22:05 Build Failed. 1 errors, 2 warnings. (took 171ms)
+

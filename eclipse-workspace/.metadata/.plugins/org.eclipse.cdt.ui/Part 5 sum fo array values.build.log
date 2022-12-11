@@ -1,0 +1,7 @@
+10:26:30 **** Rebuild of configuration Debug for project Part 5 sum fo array values ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 sum fo array values.o" "..\\src\\Part 5 sum fo array values.c" 
+gcc -o "Part 5 sum fo array values.exe" "src\\Part 5 sum fo array values.o" 
+
+10:26:35 Build Finished. 0 errors, 0 warnings. (took 5s.571ms)
+

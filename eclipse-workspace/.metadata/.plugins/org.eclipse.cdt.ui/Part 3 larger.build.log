@@ -1,0 +1,7 @@
+21:33:53 **** Rebuild of configuration Debug for project Part 3 larger ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\10 larger.o" "..\\src\\10 larger.c" 
+gcc -o "Part 3 larger.exe" "src\\10 larger.o" 
+
+21:33:53 Build Finished. 0 errors, 0 warnings. (took 324ms)
+

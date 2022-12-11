@@ -1,0 +1,7 @@
+13:04:57 **** Rebuild of configuration Debug for project Part 4 asg1 reversal pattern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 4 asg1 reversal pattern.o" "..\\src\\Part 4 asg1 reversal pattern.c" 
+gcc -o "Part 4 asg1 reversal pattern.exe" "src\\Part 4 asg1 reversal pattern.o" 
+
+13:04:58 Build Finished. 0 errors, 0 warnings. (took 324ms)
+

@@ -1,0 +1,43 @@
+/*
+ ============================================================================
+ Name        : All_in.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int i, j, n=5, a[100]={1,2,3,4,5};
+	int flag=0;
+	// array deeltion
+	// prime number deletion
+	for(i=0; i<n; i++){
+		flag=0;
+		for(j=1; i<n; j++){
+			if(a[i]%j!=0){
+				a[i]=a[i+1];
+				n--;
+
+
+			}
+
+		}
+
+
+		}
+	printf("after deletion\n");
+	for(i=0; i<n; i++){
+		printf("%d ",a[i]);
+	}
+
+
+
+
+	return EXIT_SUCCESS;
+}

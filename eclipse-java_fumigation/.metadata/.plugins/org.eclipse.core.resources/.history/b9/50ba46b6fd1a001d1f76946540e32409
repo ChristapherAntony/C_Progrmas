@@ -1,0 +1,20 @@
+
+public class Hello {
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println("hai");
+		
+		
+		
+		Sample s=new Sample(int n);
+		
+		
+		
+		System.out.println("hello");
+		
+	} 
+
+}
+ 

@@ -1,0 +1,7 @@
+00:12:12 **** Incremental Build of configuration Debug for project Reverse_new ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Reverse_new.o" "..\\src\\Reverse_new.c" 
+gcc -o Reverse_new.exe "src\\Reverse_new.o" 
+
+00:12:12 Build Finished. 0 errors, 0 warnings. (took 364ms)
+

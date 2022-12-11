@@ -1,0 +1,59 @@
+/*
+ ============================================================================
+ Name        : enums.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+
+
+	enum days_of_a_week{sun,mon,tue,wed,thr,fri,sat};
+
+	enum days_of_a_week lastday;
+
+	lastday=sun;
+
+
+
+
+
+	char hollyday;
+	hollyday=wed;
+
+	float sample=1.5;
+	char first=A;
+
+
+
+
+
+
+
+
+
+
+	printf("%d\n",lastday);
+	printf("%d",hollyday);
+
+
+
+
+
+
+
+
+
+
+
+
+
+	return EXIT_SUCCESS;
+}

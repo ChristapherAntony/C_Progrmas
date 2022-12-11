@@ -1,0 +1,7 @@
+00:24:39 **** Rebuild of configuration Debug for project unique_elements ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\unique_elements.o" "..\\src\\unique_elements.c" 
+gcc -o unique_elements.exe "src\\unique_elements.o" 
+
+00:24:39 Build Finished. 0 errors, 0 warnings. (took 443ms)
+

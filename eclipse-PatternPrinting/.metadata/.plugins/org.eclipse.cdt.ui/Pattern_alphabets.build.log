@@ -1,0 +1,7 @@
+13:05:22 **** Rebuild of configuration Debug for project Pattern_alphabets ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Pattern_alphabets.o" "..\\src\\Pattern_alphabets.c" 
+gcc -o Pattern_alphabets.exe "src\\Pattern_alphabets.o" 
+
+13:05:23 Build Finished. 0 errors, 0 warnings. (took 298ms)
+

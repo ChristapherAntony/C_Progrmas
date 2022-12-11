@@ -1,0 +1,9 @@
+18:14:35 **** Rebuild of configuration Debug for project sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample.o" "..\\src\\sample.c" 
+..\src\sample.c: In function 'main':
+..\src\sample.c:19:8: warning: unused variable 'netpay'
+gcc -o sample.exe "src\\sample.o" 
+
+18:14:35 Build Finished. 0 errors, 1 warnings. (took 648ms)
+

@@ -1,0 +1,10 @@
+10:22:10 **** Rebuild of configuration Debug for project abc ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "abc_src\\abc.o" "..\\abc_src\\abc.c" 
+gcc -o abc.exe "abc_src\\abc.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o): In function `main':
+/W64_4.5_180676-src/build-crt/../mingw-w64-crt/crt/crt0_c.c:18: undefined reference to `WinMain'
+collect2: ld returned 1 exit status
+
+10:22:11 Build Failed. 1 errors, 0 warnings. (took 374ms)
+

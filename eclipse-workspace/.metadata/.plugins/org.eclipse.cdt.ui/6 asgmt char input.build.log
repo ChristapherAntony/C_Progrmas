@@ -1,0 +1,9 @@
+10:00:33 **** Rebuild of configuration Debug for project 6 asgmt char input ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\6 asgmt char input.o" "..\\src\\6 asgmt char input.c" 
+..\src\6 asgmt char input.c: In function 'main':
+..\src\6 asgmt char input.c:18:2: warning: format '%s' expects type 'char *', but argument 2 has type 'char (*)[25]'
+gcc -o "6 asgmt char input.exe" "src\\6 asgmt char input.o" 
+
+10:00:34 Build Finished. 0 errors, 1 warnings. (took 392ms)
+

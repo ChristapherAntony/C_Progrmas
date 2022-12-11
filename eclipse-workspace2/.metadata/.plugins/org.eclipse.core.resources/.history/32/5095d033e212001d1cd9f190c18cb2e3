@@ -1,0 +1,39 @@
+/*
+ ============================================================================
+ Name        : sample.c
+ Author      :
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+#include <stdio.h>
+
+int main(void){
+	setbuf(stdout,NULL);
+	float width,height,perimeter=0,area=0;
+
+
+	printf("This is a simple program for finding Perimeter  and area of a rectangle\n");
+	printf("Enter the width and the height of the rectangle ");
+	scanf("%f",&width);scanf("%f",&height);
+
+	perimeter=(width+height)*2;
+	area=height*width;
+
+
+	printf("perimeter=%f\n",int(perimeter));
+	printf("area=%1.2f",area);
+
+
+
+
+
+
+
+
+
+
+	return 0;
+}
+

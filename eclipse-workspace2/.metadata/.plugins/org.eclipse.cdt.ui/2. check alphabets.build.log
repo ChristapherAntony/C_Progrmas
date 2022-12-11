@@ -1,0 +1,7 @@
+10:21:56 **** Rebuild of configuration Debug for project 2. check alphabets ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. check alphabets.o" "..\\src\\2. check alphabets.c" 
+gcc -o "2. check alphabets.exe" "src\\2. check alphabets.o" 
+
+10:21:57 Build Finished. 0 errors, 0 warnings. (took 591ms)
+

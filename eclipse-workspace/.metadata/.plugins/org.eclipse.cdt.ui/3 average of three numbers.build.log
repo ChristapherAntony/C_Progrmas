@@ -1,0 +1,7 @@
+20:45:54 **** Rebuild of configuration Debug for project 3 average of three numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\average of three numbers.o" "..\\src\\average of three numbers.c" 
+gcc -o "3 average of three numbers.exe" "src\\average of three numbers.o" 
+
+20:45:54 Build Finished. 0 errors, 0 warnings. (took 340ms)
+

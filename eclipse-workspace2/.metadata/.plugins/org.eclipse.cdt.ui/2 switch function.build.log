@@ -1,0 +1,9 @@
+15:09:43 **** Incremental Build of configuration Debug for project 2 switch function ****
+Info: Internal Builder is used for build
+gcc -o "2 switch function.exe" "src\\2 switch function.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o): In function `main':
+/W64_4.5_180676-src/build-crt/../mingw-w64-crt/crt/crt0_c.c:18: undefined reference to `WinMain'
+collect2: ld returned 1 exit status
+
+15:09:43 Build Failed. 1 errors, 0 warnings. (took 220ms)
+

@@ -1,0 +1,7 @@
+19:16:38 **** Rebuild of configuration Debug for project Deletion by position ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Deletion by position.o" "..\\src\\Deletion by position.c" 
+gcc -o "Deletion by position.exe" "src\\Deletion by position.o" 
+
+19:16:38 Build Finished. 0 errors, 0 warnings. (took 327ms)
+

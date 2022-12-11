@@ -1,0 +1,9 @@
+00:24:36 **** Rebuild of configuration Debug for project int ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\int.o" "..\\src\\int.c" 
+..\src\int.c: In function 'main':
+..\src\int.c:42:4: warning: format '%d' expects type 'int', but argument 2 has type 'double'
+gcc -o int.exe "src\\int.o" 
+
+00:24:37 Build Finished. 0 errors, 1 warnings. (took 543ms)
+

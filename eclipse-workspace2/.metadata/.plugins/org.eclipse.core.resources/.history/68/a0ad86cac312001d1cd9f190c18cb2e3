@@ -1,0 +1,17 @@
+/*
+ ============================================================================
+ Name        : enums.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	puts("Program to check alphabets"); /* prints Program to check alphabets */
+	return EXIT_SUCCESS;
+}

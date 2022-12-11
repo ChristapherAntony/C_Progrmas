@@ -1,0 +1,33 @@
+10:22:00 **** Rebuild of configuration Debug for project 2.number of days in a month ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number of days in a month.o" "..\\src\\number of days in a month.c" 
+..\src\number of days in a month.c: In function 'main':
+..\src\number of days in a month.c:23:21: warning: multi-character character constant
+..\src\number of days in a month.c:24:25: warning: multi-character character constant
+..\src\number of days in a month.c:25:25: warning: multi-character character constant
+..\src\number of days in a month.c:26:25: warning: multi-character character constant
+..\src\number of days in a month.c:27:25: warning: multi-character character constant
+..\src\number of days in a month.c:28:25: warning: multi-character character constant
+..\src\number of days in a month.c:29:25: warning: multi-character character constant
+..\src\number of days in a month.c:30:25: warning: multi-character character constant
+..\src\number of days in a month.c:31:25: warning: multi-character character constant
+..\src\number of days in a month.c:32:26: warning: multi-character character constant
+..\src\number of days in a month.c:33:26: warning: multi-character character constant
+..\src\number of days in a month.c:34:26: warning: multi-character character constant
+..\src\number of days in a month.c:38:27: warning: multi-character character constant
+..\src\number of days in a month.c:38:43: warning: multi-character character constant
+..\src\number of days in a month.c:38:59: warning: multi-character character constant
+..\src\number of days in a month.c:38:75: warning: multi-character character constant
+..\src\number of days in a month.c:38:91: warning: multi-character character constant
+..\src\number of days in a month.c:38:107: warning: multi-character character constant
+..\src\number of days in a month.c:40:18: warning: multi-character character constant
+..\src\number of days in a month.c:42:19: warning: multi-character character constant
+..\src\number of days in a month.c:42:35: warning: multi-character character constant
+..\src\number of days in a month.c:42:51: warning: multi-character character constant
+..\src\number of days in a month.c:42:67: warning: multi-character character constant
+..\src\number of days in a month.c:17:11: warning: unused variable 'Feb'
+..\src\number of days in a month.c:38:11: warning: 'Jan' is used uninitialized in this function
+gcc -o "2.number of days in a month.exe" "src\\number of days in a month.o" 
+
+10:22:01 Build Finished. 0 errors, 25 warnings. (took 437ms)
+

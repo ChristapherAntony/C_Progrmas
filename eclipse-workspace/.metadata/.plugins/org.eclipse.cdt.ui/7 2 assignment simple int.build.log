@@ -1,0 +1,8 @@
+22:20:44 **** Incremental Build of configuration Debug for project 7 2 assignment simple int ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\7 2 assignment simple int.o" "..\\src\\7 2 assignment simple int.c" 
+..\src\7 2 assignment simple int.c: In function 'main':
+..\src\7 2 assignment simple int.c:29:2: error: expected ';' before 'printf'
+
+22:20:44 Build Failed. 1 errors, 0 warnings. (took 169ms)
+

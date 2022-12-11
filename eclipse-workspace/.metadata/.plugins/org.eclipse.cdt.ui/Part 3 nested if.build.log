@@ -1,0 +1,7 @@
+20:46:10 **** Rebuild of configuration Debug for project Part 3 nested if ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\11 nested if.o" "..\\src\\11 nested if.c" 
+gcc -o "Part 3 nested if.exe" "src\\11 nested if.o" 
+
+20:46:10 Build Finished. 0 errors, 0 warnings. (took 348ms)
+

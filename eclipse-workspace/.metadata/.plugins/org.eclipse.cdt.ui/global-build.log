@@ -1,0 +1,101 @@
+13:00:23 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+13:00:41 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+13:07:14 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+13:15:27 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+13:20:53 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+Info: Nothing to build for sample001
+13:22:58 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file sample001.exe: Permission denied
+collect2: ld returned 1 exit status
+13:23:09 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -o sample001.exe "src\\sample001.o" 
+Info: Nothing to build for sample001
+15:00:35 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+15:03:30 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+15:05:45 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+gcc -o sample001.exe "src\\sample001.o" 
+Info: Nothing to build for sample001
+Info: Nothing to build for sample001
+15:07:34 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+..\src\sample001.c: In function 'main':
+..\src\sample001.c:19:20: warning: unused variable 'count'
+gcc -o sample001.exe "src\\sample001.o" 
+Info: Nothing to build for sample001
+15:09:09 **** Rebuild of configuration Debug for project Part 5 asg 3 sort array decending order ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 asg 3 sort array decending order.o" "..\\src\\Part 5 asg 3 sort array decending order.c" 
+gcc -o "Part 5 asg 3 sort array decending order.exe" "src\\Part 5 asg 3 sort array decending order.o" 
+Info: Nothing to build for Part 5 asg 3 sort array decending order
+15:10:29 **** Incremental Build of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+..\src\sample001.c: In function 'main':
+..\src\sample001.c:19:20: warning: unused variable 'count'
+gcc -o sample001.exe "src\\sample001.o" 
+Info: Nothing to build for sample001
+21:32:15 **** Rebuild of configuration Debug for project sample001 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample001.o" "..\\src\\sample001.c" 
+..\src\sample001.c: In function 'main':
+..\src\sample001.c:19:20: warning: unused variable 'count'
+gcc -o sample001.exe "src\\sample001.o" 
+16:11:11 **** Rebuild of configuration Debug for project Part 5 asg3 no of even in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 asg3 no of even in array.o" "..\\src\\Part 5 asg3 no of even in array.c" 
+gcc -o "Part 5 asg3 no of even in array.exe" "src\\Part 5 asg3 no of even in array.o" 
+16:15:21 **** Incremental Build of configuration Debug for project Part 5 asg3 no of even in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 asg3 no of even in array.o" "..\\src\\Part 5 asg3 no of even in array.c" 
+gcc -o "Part 5 asg3 no of even in array.exe" "src\\Part 5 asg3 no of even in array.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/bin/ld.exe: cannot open output file Part 5 asg3 no of even in array.exe: Permission denied
+collect2: ld returned 1 exit status
+19:23:19 **** Rebuild of configuration Debug for project Patr 6 multi-dimensional array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Patr 6 multi-dimensional array.o" "..\\src\\Patr 6 multi-dimensional array.c" 
+gcc -o "Patr 6 multi-dimensional array.exe" "src\\Patr 6 multi-dimensional array.o" 
+19:23:22 **** Incremental Build of configuration Debug for project Part 5 asg3 no of even in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 5 asg3 no of even in array.o" "..\\src\\Part 5 asg3 no of even in array.c" 
+..\src\Part 5 asg3 no of even in array.c: In function 'main':
+..\src\Part 5 asg3 no of even in array.c:33:2: error: expected declaration or statement at end of input
+20:16:41 **** Rebuild of configuration Debug for project Part 6 f no argu with return ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 6 f no argu with return.o" "..\\src\\Part 6 f no argu with return.c" 
+gcc -o "Part 6 f no argu with return.exe" "src\\Part 6 f no argu with return.o" 
+20:17:28 **** Rebuild of configuration Debug for project Part 6 fun without argu and return ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 6 fun type 1.o" "..\\src\\Part 6 fun type 1.c" 
+gcc -o "Part 6 fun without argu and return.exe" "src\\Part 6 fun type 1.o" 
+00:31:05 **** Rebuild of configuration Debug for project Part 4 Prime number status ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 4 Prime number status.o" "..\\src\\Part 4 Prime number status.c" 
+gcc -o "Part 4 Prime number status.exe" "src\\Part 4 Prime number status.o" 

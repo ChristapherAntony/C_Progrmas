@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Part 6 function 1&apos;" deleteContents="true" description="Delete resource &apos;Part 6 function 1&apos;" element1="/Part 6 function 1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1656214164227"/>&#x0A;<refactoring comment="Rename resource &apos;Part 6 fun type 1&apos; to &apos;Part 6 fun without argu and return&apos;" description="Rename resource &apos;Part 6 fun type 1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Part 6 fun type 1" name="Part 6 fun without argu and return" stamp="1656302246617" updateReferences="true"/>
+</session>

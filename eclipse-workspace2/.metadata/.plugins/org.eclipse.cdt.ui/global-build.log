@@ -1,0 +1,173 @@
+06:39:40 **** Rebuild of configuration Debug for project 2. salary calculation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. salary calculation.o" "..\\src\\2. salary calculation.c" 
+..\src\2. salary calculation.c: In function 'main':
+..\src\2. salary calculation.c:19:8: warning: unused variable 'netpay'
+gcc -o "2. salary calculation.exe" "src\\2. salary calculation.o" 
+06:40:51 **** Incremental Build of configuration Debug for project 2. salary calculation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. salary calculation.o" "..\\src\\2. salary calculation.c" 
+gcc -o "2. salary calculation.exe" "src\\2. salary calculation.o" 
+10:21:18 **** Incremental Build of configuration Debug for project sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample.o" "..\\src\\sample.c" 
+..\src\sample.c: In function 'main':
+..\src\sample.c:19:8: warning: unused variable 'netpay'
+gcc -o sample.exe "src\\sample.o" 
+Info: Nothing to build for sample
+10:21:54 **** Rebuild of configuration Debug for project 1 if function passed or failed ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\1 if function passed or failed.o" "..\\src\\1 if function passed or failed.c" 
+gcc -o "1 if function passed or failed.exe" "src\\1 if function passed or failed.o" 
+10:21:55 **** Rebuild of configuration Debug for project 1 simple interest ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\1 simple interest.o" "..\\src\\1 simple interest.c" 
+gcc -o "1 simple interest.exe" "src\\1 simple interest.o" 
+10:21:56 **** Rebuild of configuration Debug for project 10.functions ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\10.functions.o" "..\\src\\10.functions.c" 
+..\src\10.functions.c: In function 'sum':
+..\src\10.functions.c:50:1: warning: control reaches end of non-void function
+gcc -o 10.functions.exe "src\\10.functions.o" 
+10:21:56 **** Rebuild of configuration Debug for project 2. check alphabets ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. check alphabets.o" "..\\src\\2. check alphabets.c" 
+gcc -o "2. check alphabets.exe" "src\\2. check alphabets.o" 
+10:21:57 **** Rebuild of configuration Debug for project 2. electricity bill ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. electricity bill.o" "..\\src\\2. electricity bill.c" 
+gcc -o "2. electricity bill.exe" "src\\2. electricity bill.o" 
+10:21:57 **** Rebuild of configuration Debug for project 2. max 3 number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. max 3 number.o" "..\\src\\2. max 3 number.c" 
+gcc -o "2. max 3 number.exe" "src\\2. max 3 number.o" 
+10:21:58 **** Rebuild of configuration Debug for project 2. programe to check leap year ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. programe to check leap year.o" "..\\src\\2. programe to check leap year.c" 
+gcc -o "2. programe to check leap year.exe" "src\\2. programe to check leap year.o" 
+10:21:59 **** Incremental Build of configuration Debug for project 2. salary calculation ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. salary calculation.o" "..\\src\\2. salary calculation.c" 
+gcc -o "2. salary calculation.exe" "src\\2. salary calculation.o" 
+10:21:59 **** Rebuild of configuration Debug for project 2. to check divisibility of a number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2. to check divisibility of a number.o" "..\\src\\2. to check divisibility of a number.c" 
+gcc -o "2. to check divisibility of a number.exe" "src\\2. to check divisibility of a number.o" 
+10:22:00 **** Rebuild of configuration Debug for project 2.if else --maximum between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if else --maximum between two numbers.o" "..\\src\\if else --maximum between two numbers.c" 
+..\src\if else --maximum between two numbers.c: In function 'main':
+..\src\if else --maximum between two numbers.c:39:6: warning: 'nothing' may be used uninitialized in this function
+gcc -o "2.if else --maximum between two numbers.exe" "src\\if else --maximum between two numbers.o" 
+10:22:00 **** Rebuild of configuration Debug for project 2.number of days in a month ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\number of days in a month.o" "..\\src\\number of days in a month.c" 
+..\src\number of days in a month.c: In function 'main':
+..\src\number of days in a month.c:23:21: warning: multi-character character constant
+..\src\number of days in a month.c:24:25: warning: multi-character character constant
+..\src\number of days in a month.c:25:25: warning: multi-character character constant
+..\src\number of days in a month.c:26:25: warning: multi-character character constant
+..\src\number of days in a month.c:27:25: warning: multi-character character constant
+..\src\number of days in a month.c:28:25: warning: multi-character character constant
+..\src\number of days in a month.c:29:25: warning: multi-character character constant
+..\src\number of days in a month.c:30:25: warning: multi-character character constant
+..\src\number of days in a month.c:31:25: warning: multi-character character constant
+..\src\number of days in a month.c:32:26: warning: multi-character character constant
+..\src\number of days in a month.c:33:26: warning: multi-character character constant
+..\src\number of days in a month.c:34:26: warning: multi-character character constant
+..\src\number of days in a month.c:38:27: warning: multi-character character constant
+..\src\number of days in a month.c:38:43: warning: multi-character character constant
+..\src\number of days in a month.c:38:59: warning: multi-character character constant
+..\src\number of days in a month.c:38:75: warning: multi-character character constant
+..\src\number of days in a month.c:38:91: warning: multi-character character constant
+..\src\number of days in a month.c:38:107: warning: multi-character character constant
+..\src\number of days in a month.c:40:18: warning: multi-character character constant
+..\src\number of days in a month.c:42:19: warning: multi-character character constant
+..\src\number of days in a month.c:42:35: warning: multi-character character constant
+..\src\number of days in a month.c:42:51: warning: multi-character character constant
+..\src\number of days in a month.c:42:67: warning: multi-character character constant
+..\src\number of days in a month.c:17:11: warning: unused variable 'Feb'
+..\src\number of days in a month.c:38:11: warning: 'Jan' is used uninitialized in this function
+gcc -o "2.number of days in a month.exe" "src\\number of days in a month.o" 
+10:22:01 **** Rebuild of configuration Debug for project 2.triangle side ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.triangle side.o" "..\\src\\2.triangle side.c" 
+gcc -o "2.triangle side.exe" "src\\2.triangle side.o" 
+10:22:01 **** Rebuild of configuration Debug for project 3. calulator switch ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\3. calulator switch.o" "..\\src\\3. calulator switch.c" 
+gcc -o "3. calulator switch.exe" "src\\3. calulator switch.o" 
+10:22:02 **** Rebuild of configuration Debug for project 3. maximum between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum between two numbers.o" "..\\src\\maximum between two numbers.c" 
+gcc -o "3. maximum between two numbers.exe" "src\\maximum between two numbers.o" 
+10:22:03 **** Rebuild of configuration Debug for project 3.day weak ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\3.day weak.o" "..\\src\\3.day weak.c" 
+gcc -o "3.day weak.exe" "src\\3.day weak.o" 
+10:22:03 **** Rebuild of configuration Debug for project 3.even or odd number using switch case ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\3.even or odd number using switch case.o" "..\\src\\3.even or odd number using switch case.c" 
+gcc -o "3.even or odd number using switch case.exe" "src\\3.even or odd number using switch case.o" 
+10:22:04 **** Rebuild of configuration Debug for project 3.positive negative or zero using switch case ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\3.positive negative or zero using switch case.o" "..\\src\\3.positive negative or zero using switch case.c" 
+gcc -o "3.positive negative or zero using switch case.exe" "src\\3.positive negative or zero using switch case.o" 
+10:22:04 **** Rebuild of configuration Debug for project 4. a_to_z loop ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4. a_to_z loop.o" "..\\src\\4. a_to_z loop.c" 
+gcc -o "4. a_to_z loop.exe" "src\\4. a_to_z loop.o" 
+10:22:05 **** Rebuild of configuration Debug for project 4. print multiplication table of any number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4. print multiplication table of any number.o" "..\\src\\4. print multiplication table of any number.c" 
+..\src\4. print multiplication table of any number.c: In function 'main':
+..\src\4. print multiplication table of any number.c:31:2: warning: statement with no effect
+..\src\4. print multiplication table of any number.c:33:2: error: expected ';' before 'return'
+..\src\4. print multiplication table of any number.c:34:1: warning: control reaches end of non-void function
+10:22:05 **** Rebuild of configuration Debug for project 4.even and odd plus sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\print all even numbers from 1 to n.o" "..\\src\\print all even numbers from 1 to n.c" 
+gcc -o "4.even and odd plus sum.exe" "src\\print all even numbers from 1 to n.o" 
+10:22:06 **** Rebuild of configuration Debug for project 5. diff tye patterns ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5. diff tye patterns.o" "..\\src\\5. diff tye patterns.c" 
+gcc -o "5. diff tye patterns.exe" "src\\5. diff tye patterns.o" 
+10:22:06 **** Rebuild of configuration Debug for project 5. find first and last digit of a number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5. find first and last digit of a number.o" "..\\src\\5. find first and last digit of a number.c" 
+gcc -o "5. find first and last digit of a number.exe" "src\\5. find first and last digit of a number.o" 
+10:22:07 **** Rebuild of configuration Debug for project 5. star paters ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5. star paters.o" "..\\src\\5. star paters.c" 
+gcc -o "5. star paters.exe" "src\\5. star paters.o" 
+10:22:08 **** Rebuild of configuration Debug for project 5. sum of all digit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5. sum of all digit.o" "..\\src\\5. sum of all digit.c" 
+gcc -o "5. sum of all digit.exe" "src\\5. sum of all digit.o" 
+10:22:08 **** Rebuild of configuration Debug for project 5.count number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5.count number.o" "..\\src\\5.count number.c" 
+gcc -o "5.count number.exe" "src\\5.count number.o" 
+10:22:09 **** Rebuild of configuration Debug for project 5.print rhombus star pattern ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\5.print rhombus star pattern.o" "..\\src\\5.print rhombus star pattern.c" 
+gcc -o "5.print rhombus star pattern.exe" "src\\5.print rhombus star pattern.o" 
+10:22:09 **** Rebuild of configuration Debug for project 6.enums ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\6.enums.o" "..\\src\\6.enums.c" 
+gcc -o 6.enums.exe "src\\6.enums.o" 
+10:22:10 **** Rebuild of configuration Debug for project abc ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "abc_src\\abc.o" "..\\abc_src\\abc.c" 
+gcc -o abc.exe "abc_src\\abc.o" 
+c:/program files/mingw-w64-bin_x86_64-mingw_20111101_sezero/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/4.5.4/../../../../x86_64-w64-mingw32/lib/libmingw32.a(lib64_libmingw32_a-crt0_c.o): In function `main':
+/W64_4.5_180676-src/build-crt/../mingw-w64-crt/crt/crt0_c.c:18: undefined reference to `WinMain'
+collect2: ld returned 1 exit status
+Info: Nothing to build for sample
+Info: Nothing to build for sample
+18:14:35 **** Rebuild of configuration Debug for project sample ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sample.o" "..\\src\\sample.c" 
+..\src\sample.c: In function 'main':
+..\src\sample.c:19:8: warning: unused variable 'netpay'
+gcc -o sample.exe "src\\sample.o" 

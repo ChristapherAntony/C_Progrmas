@@ -1,0 +1,11 @@
+
+public class Class1 {
+	public static void main(String[] args) {
+		
+		int r=10/0;    //Arithmetic exception
+		
+		System.out.println("hello"+r);
+		
+	}
+
+}

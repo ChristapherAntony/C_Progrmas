@@ -1,0 +1,9 @@
+10:22:00 **** Rebuild of configuration Debug for project 2.if else --maximum between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\if else --maximum between two numbers.o" "..\\src\\if else --maximum between two numbers.c" 
+..\src\if else --maximum between two numbers.c: In function 'main':
+..\src\if else --maximum between two numbers.c:39:6: warning: 'nothing' may be used uninitialized in this function
+gcc -o "2.if else --maximum between two numbers.exe" "src\\if else --maximum between two numbers.o" 
+
+10:22:00 Build Finished. 0 errors, 1 warnings. (took 457ms)
+

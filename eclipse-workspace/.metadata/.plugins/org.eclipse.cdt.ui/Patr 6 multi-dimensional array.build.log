@@ -1,0 +1,7 @@
+19:23:19 **** Rebuild of configuration Debug for project Patr 6 multi-dimensional array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Patr 6 multi-dimensional array.o" "..\\src\\Patr 6 multi-dimensional array.c" 
+gcc -o "Patr 6 multi-dimensional array.exe" "src\\Patr 6 multi-dimensional array.o" 
+
+19:23:20 Build Finished. 0 errors, 0 warnings. (took 375ms)
+

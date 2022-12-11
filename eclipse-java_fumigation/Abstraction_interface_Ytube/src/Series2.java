@@ -1,0 +1,4 @@
+
+public interface Series2 {
+
+}

@@ -1,0 +1,7 @@
+06:26:59 **** Incremental Build of configuration Debug for project Part 4 summ of all odd numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 4 summ of all odd numbers.o" "..\\src\\Part 4 summ of all odd numbers.c" 
+gcc -o "Part 4 summ of all odd numbers.exe" "src\\Part 4 summ of all odd numbers.o" 
+
+06:26:59 Build Finished. 0 errors, 0 warnings. (took 357ms)
+

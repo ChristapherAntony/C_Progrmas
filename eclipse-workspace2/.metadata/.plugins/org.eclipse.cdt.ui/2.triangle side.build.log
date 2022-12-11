@@ -1,0 +1,7 @@
+10:22:01 **** Rebuild of configuration Debug for project 2.triangle side ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\2.triangle side.o" "..\\src\\2.triangle side.c" 
+gcc -o "2.triangle side.exe" "src\\2.triangle side.o" 
+
+10:22:01 Build Finished. 0 errors, 0 warnings. (took 577ms)
+

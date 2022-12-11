@@ -1,0 +1,7 @@
+18:59:53 **** Rebuild of configuration Debug for project Part 4 For loop 1 to 100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 4 For loop 1 to 100.o" "..\\src\\Part 4 For loop 1 to 100.c" 
+gcc -o "Part 4 For loop 1 to 100.exe" "src\\Part 4 For loop 1 to 100.o" 
+
+18:59:53 Build Finished. 0 errors, 0 warnings. (took 358ms)
+

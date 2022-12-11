@@ -1,0 +1,8 @@
+19:57:20 **** Incremental Build of configuration Debug for project 4  swapping ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\4  swapping.o" "..\\src\\4  swapping.c" 
+..\src\4  swapping.c:11:22: fatal error: studio.h : No such file or directory
+compilation terminated.
+
+19:57:20 Build Failed. 1 errors, 0 warnings. (took 119ms)
+

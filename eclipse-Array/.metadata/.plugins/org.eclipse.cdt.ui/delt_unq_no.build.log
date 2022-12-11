@@ -1,0 +1,7 @@
+10:25:26 **** Rebuild of configuration Debug for project delt_unq_no ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\delt_unq_no.o" "..\\src\\delt_unq_no.c" 
+gcc -o delt_unq_no.exe "src\\delt_unq_no.o" 
+
+10:25:26 Build Finished. 0 errors, 0 warnings. (took 318ms)
+

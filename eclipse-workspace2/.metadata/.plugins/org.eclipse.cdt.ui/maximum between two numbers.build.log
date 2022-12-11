@@ -1,0 +1,12 @@
+13:52:53 **** Rebuild of configuration Debug for project maximum between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum between two numbers.o" "..\\src\\maximum between two numbers.c" 
+..\src\maximum between two numbers.c: In function 'main':
+..\src\maximum between two numbers.c:15:2: warning: implicit declaration of function 'ssetbuf'
+gcc -o "maximum between two numbers.exe" "src\\maximum between two numbers.o" 
+src\maximum between two numbers.o: In function `main':
+C:\Users\Christapher\eclipse-workspace2\maximum between two numbers\Debug/../src/maximum between two numbers.c:15: undefined reference to `ssetbuf'
+collect2: ld returned 1 exit status
+
+13:52:53 Build Failed. 1 errors, 1 warnings. (took 559ms)
+

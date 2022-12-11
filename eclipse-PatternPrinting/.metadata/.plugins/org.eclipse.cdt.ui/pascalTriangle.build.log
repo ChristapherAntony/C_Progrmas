@@ -1,0 +1,7 @@
+13:05:23 **** Rebuild of configuration Debug for project pascalTriangle ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pascalTriangle.o" "..\\src\\pascalTriangle.c" 
+gcc -o pascalTriangle.exe "src\\pascalTriangle.o" 
+
+13:05:24 Build Finished. 0 errors, 0 warnings. (took 329ms)
+

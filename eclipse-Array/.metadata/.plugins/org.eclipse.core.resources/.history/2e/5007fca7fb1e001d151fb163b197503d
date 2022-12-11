@@ -1,0 +1,33 @@
+/*
+ ============================================================================
+ Name        : All_in.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+	setbuf(stdout,NULL);
+	int i, j,n=10, a[100]={12,45,23,48,75,10,45,99,55,77};
+	int temp=0;
+	int odd=0,even=0;
+	//reverse an array
+
+	for(i=0; i<n; i++){
+		if(a[i]%2==0){
+			even++;
+		}else{
+			odd++;
+		}
+	}
+	printf("even number count= %d , odd numbers count= %d",even,odd);
+
+
+
+	return EXIT_SUCCESS;
+}

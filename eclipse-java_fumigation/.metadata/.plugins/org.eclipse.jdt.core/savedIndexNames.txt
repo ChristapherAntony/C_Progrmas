@@ -1,0 +1,25 @@
+INDEX VERSION 1.131+C:\Users\Christapher\eclipse-java_fumigation\.metadata\.plugins\org.eclipse.jdt.core
+2665842468.index
+4257230966.index
+1583283714.index
+1894264919.index
+1188809596.index
+384558603.index
+4083530874.index
+1865797976.index
+36105826.index
+1480650043.index
+836565994.index
+969968605.index
+3801006319.index
+1382023657.index
+3267739991.index
+1592433274.index
+430457327.index
+3596932845.index
+1744221617.index
+864370231.index
+732137801.index
+3151383430.index
+3048885576.index
+3281121975.index

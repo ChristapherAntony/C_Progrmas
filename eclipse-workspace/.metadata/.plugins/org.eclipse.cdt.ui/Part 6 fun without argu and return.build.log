@@ -1,0 +1,7 @@
+20:17:28 **** Rebuild of configuration Debug for project Part 6 fun without argu and return ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Part 6 fun type 1.o" "..\\src\\Part 6 fun type 1.c" 
+gcc -o "Part 6 fun without argu and return.exe" "src\\Part 6 fun type 1.o" 
+
+20:17:28 Build Finished. 0 errors, 0 warnings. (took 297ms)
+
